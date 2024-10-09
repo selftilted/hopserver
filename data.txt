@@ -1,1 +1,1 @@
-Failed to retrieve data. Status code: 503
+Failed to retrieve data. Status code: 500
